@@ -4,3 +4,5 @@ In this project we build an HTTP file downloader that supports resuming and mult
 2. Details of various metrics used to analyze the connection quality
 3. Socket programming in python
 4. Multi-threading in python
+
+Project done in extreme programming style with @mirzaabdulwahab1612
